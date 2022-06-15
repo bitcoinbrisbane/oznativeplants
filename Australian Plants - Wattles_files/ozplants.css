@@ -1,0 +1,371 @@
+BODY {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Tahoma, Helvetica, sans-serif;
+	font-size: 100%;
+	width: 990px;
+	text-align:center; /* for IE */
+   margin:0 auto; /* for the rest */
+}
+
+#container {
+width: 990px;
+margin: 0 auto;
+text-align: left
+} 
+
+P {
+	color : #000000;
+	font-family : Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 100%;
+	margin-left : 5px;
+	margin-right : 5px;
+}
+
+p.footer {
+	color: GrayText;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font: italic 100;
+	text-decoration: none;
+	text-align: left;
+}
+
+p.sponsor {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+TD {
+	background-color : #FFFFFF;
+	color : #000000;
+	font-family : Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 75%;
+	margin: 5px;
+	vertical-align: top;
+	
+}
+
+TH {
+	background-color: #999999;
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	
+}
+.TDgrey {
+	background-color: #F0f0f0;
+	color: #000000;
+	font-family: Verdana, Tahoma, Helvetica, sans-serif;
+	font-size: 75%;
+	margin-left: 8%;
+	margin-right: 5%;
+	vertical-align: middle;
+}
+
+.TDgreytop {
+	background-color: #F0f0f0;
+	color: #000000;
+	font-family: Verdana, Tahoma, Helvetica, sans-serif;
+	font-size: 75%;
+	margin-left: 8%;
+	margin-right: 5%;
+	vertical-align: top;
+}
+
+.footer {
+	text-align: center;
+}
+
+.TDblack {
+	background-color: #000000;
+	color: #FFFFFF;
+	vertical-align: bottom;
+	border-bottom: medium double #9696FF;
+}
+
+.banner {
+	background-color: #000000;
+	color: #FFFFFF;
+	background-image: url(Webgraphic/bannernew-short.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+
+A:LINK {
+	color: Blue;
+	text-decoration: none;
+}
+
+A:VISITED {
+	color: Maroon;
+	text-decoration: none;
+}
+
+A:HOVER {
+	color: White;
+	background-color: #C80000;
+}
+
+
+
+H1 {
+	color : #000000;
+	font-family : Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size : 130%;
+}
+
+
+
+
+
+H2 {
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	font-weight: bold;
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
+H3 {
+	color: #990000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 110%;
+}
+
+H4 {
+	color : #990000;
+	font-family : Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size : 105%;
+	margin-left : -5%;
+	margin-top : 1.5em;
+}
+
+
+HR {
+	color: #333333;
+	height: 1pt;
+}
+
+
+.menutable
+{
+	background-color: #B0B7C4;
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 65%;
+	text-align: left;
+	
+}
+
+.tableheading
+{
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.tableheadingl
+{
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.detailheading
+{
+	background-color: #D5E5F0;
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	font-weight: bold;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+}
+
+.blackhead
+{
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	text-align: center;
+	vertical-align: top;
+	border: medium Green;
+}
+
+.redhead
+{
+	background-color: #c80000;
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	text-align: center;
+	vertical-align: top;
+	border: medium #C80000;
+}
+
+A.whitelink:LINK
+{
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	vertical-align: bottom;
+	margin-bottom: 2px;
+}
+
+A.whitelink:VISITED {
+	color: Yellow;
+	text-decoration: none;
+}
+
+
+A.whitelink:HOVER {
+	color: #FFFFFF;
+	background-color: #C80000;
+	text-decoration: underline;
+}
+
+A.lowkeywhite:LINK
+{
+	color: #000000;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 90%;
+	
+}
+
+A.lowkeywhite:VISITED {
+	color: #000000;
+	background-color: #FFFFFF;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 90%;
+}
+
+A.lowkeywhite:HOVER {
+	color: #000000;
+	background-color: #FFFFFF;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 90%;
+}
+
+A.lowkeygrey:LINK
+{
+	color: #000000;
+	background-color: #EEEEEE;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 90%;
+	
+}
+
+A.lowkeygrey:VISITED {
+	color: #000000;
+	background-color: #EEEEEE;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 90%;
+}
+
+A.lowkeygrey:HOVER {
+	color: #000000;
+	background-color: #EEEEEE;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 90%;
+}
+
+
+
+A.adlike:LINK
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+        	
+	
+}
+A.adlike:VISITED
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	
+	
+}
+A.adlike:HOVER
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	
+
+}
+
+.familydesc
+{
+	background-color: #D5E5F0;
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	font-weight: bolder;
+}
+
+.shadedrow {
+	background-color: #EEEEEE;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+} 
+
+.imgleft {
+	float: left;
+	padding-right: 5px;
+	border: medium;
+	border-color: Yellow;
+}
+
+.imgright {
+	float: right;
+	padding-left: 5px;
+}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	 text-align: center;
+}
+
+.imgnofloat {
+	float: none;
+	padding-left: 5px;
+}
+
+.smalltext {
+	font-size: 75%;
+}
+
+.button
+{
+	background-color: Yellow;
+}
